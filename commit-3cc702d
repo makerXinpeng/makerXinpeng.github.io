@@ -1,0 +1,15 @@
+From 3cc702d8c1d849a6607c201ac6c84aaa52688adc Mon Sep 17 00:00:00 2001
+From: makerXinpeng <30549862+makerXinpeng@users.noreply.github.com>
+Date: Sat, 22 Feb 2020 13:11:44 +0800
+Subject: Update CNAME
+
+
+diff --git a/CNAME b/CNAME
+index 0966fbe..6fcf772 100644
+--- a/CNAME
++++ b/CNAME
+@@ -1 +1 @@
+-www.xinpenglab.com
+\ No newline at end of file
++chenxinpeng.com.cn
+\ No newline at end of file
