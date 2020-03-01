@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in China, HuaQiao University, 2017
+Huaqiao University                                                          Sep 2017 - Jun 2021 (Expected)
+Bachelor of Computer Science and Technology                        GPA: 3.97/5.00, Top15%
+* Relevant Courses: Higher Algebra, Higher Mathematics, College Physics, Probability and Statistics, Embedded System Interface, Linux
+* Honors: School of Computer Science and Technology Scholarship (2017-2019), National third-class prize of Chinese Undergraduate Computer Design Contest (top25%), Third-class prize of RoboMaster Robotics Competition for Southern Zone as Team Leader
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-* Skill 3
+* Programming: Python, C, C++, MATLAB
+* Software: Git, ROS, V-rep, keil, MongoDB, Microsoft Office
+
 
 Publications
 ======
